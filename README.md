@@ -12,3 +12,5 @@ Players Runs over Replacement = Player_runs - ReplPlayer_runs = (Player_runs - A
 Why WAR? It quantifies each player's value in terms of a specific number of wins. And because WAR factors in a positional adjustment, its well suited for comparing players who man different defensive positions.
 
 Basically the attempt is to predict next season WAR metrics for a player based on the current season stats.
+
+pybaseball is the python package used here to obtain the data. 
